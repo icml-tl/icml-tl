@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **coffee-management app**
 
-- 🌱 I’m currently learning **laravel , vue.js vb.net**
+- 🌱 I’m currently learning **laravel , vue.js , vb.net**
 
 - 💬 Ask me about **c#.net / php**
 
