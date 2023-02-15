@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning REACT-LARAVEL **laravel , vue.js vb.net**
 
-- 💬 Ask me about **c#.net / php**
+- 💬 Ask me about **C# - REACT - SQL - PHP**
 
 - 📫 How to reach me **ismailstudies5@gmail.com**
 
