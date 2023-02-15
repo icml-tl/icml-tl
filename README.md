@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=icml-tl" alt="icml-tl" /></a> </p>
 
-- 🔭 I’m currently working on MOVIE WEBSITE **coffee-management app**
+- 🔭 I’m currently working on **MOVIE WEBSITE**
 
 - 🌱 I’m currently learning REACT-LARAVEL **laravel , vue.js vb.net**
 
